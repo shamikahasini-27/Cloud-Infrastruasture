@@ -58,4 +58,4 @@ A functional prototype for centralized log management and distributed applicatio
 
 ---
 
-**Course:** Cloud Infrastructure and Services (25CS2206E)
+
